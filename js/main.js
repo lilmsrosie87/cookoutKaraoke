@@ -1,1 +1,5 @@
-console.log("Bitch better have my money!");
+$(document).ready(function(){
+	
+    console.log("Bitch betta have my money!");
+
+});
